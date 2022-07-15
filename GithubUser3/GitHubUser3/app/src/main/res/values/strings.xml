@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="review">Username</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="search_hint">Username</string>
+    <string name="follower_name">Jhon</string>
+    <string name="btn_share">Share</string>
+    <string name="menu_1">Share</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
